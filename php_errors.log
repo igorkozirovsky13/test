@@ -1,0 +1,117 @@
+[14-Nov-2015 16:02:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Array look Me/array.php on line 11
+[14-Nov-2015 16:02:45 UTC] PHP Stack trace:
+[14-Nov-2015 16:02:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array look Me/array.php:0
+[14-Nov-2015 16:02:45 UTC] PHP   2. countArr() /home/ubuntu/workspace/Array look Me/array.php:22
+[16-Nov-2015 16:55:38 UTC] PHP Parse error:  syntax error, unexpected '=', expecting '(' in /home/ubuntu/workspace/Array/array_test.php on line 2
+[16-Nov-2015 16:58:16 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/ubuntu/workspace/Array/array_test.php on line 7
+[16-Nov-2015 16:58:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/Array/array_test.php on line 9
+[16-Nov-2015 16:58:58 UTC] PHP Stack trace:
+[16-Nov-2015 16:58:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array/array_test.php:0
+[16-Nov-2015 16:58:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/Array/array_test.php on line 9
+[16-Nov-2015 16:58:59 UTC] PHP Stack trace:
+[16-Nov-2015 16:58:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array/array_test.php:0
+[16-Nov-2015 16:59:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/Array/array_test.php on line 9
+[16-Nov-2015 16:59:25 UTC] PHP Stack trace:
+[16-Nov-2015 16:59:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array/array_test.php:0
+[16-Nov-2015 16:59:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/Array/array_test.php on line 9
+[16-Nov-2015 16:59:27 UTC] PHP Stack trace:
+[16-Nov-2015 16:59:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array/array_test.php:0
+[16-Nov-2015 18:16:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/Array/array_test.php on line 10
+[16-Nov-2015 18:16:58 UTC] PHP Stack trace:
+[16-Nov-2015 18:16:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array/array_test.php:0
+[16-Nov-2015 18:18:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/Array/array_test.php on line 11
+[16-Nov-2015 18:18:48 UTC] PHP Stack trace:
+[16-Nov-2015 18:18:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array/array_test.php:0
+[16-Nov-2015 18:20:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/Array/array_test.php on line 11
+[16-Nov-2015 18:20:05 UTC] PHP Stack trace:
+[16-Nov-2015 18:20:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array/array_test.php:0
+[16-Nov-2015 18:23:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/ubuntu/workspace/Array/array_test.php on line 11
+[16-Nov-2015 18:23:21 UTC] PHP Stack trace:
+[16-Nov-2015 18:23:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Array/array_test.php:0
+[05-Dec-2015 19:44:05 UTC] PHP Fatal error:  Class GbookDB contains 3 abstract methods and must therefore be declared abstract or implement the remaining methods (IGbookDB::savePost, IGbookDB::getAll, IGbookDB::deletePost) in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 16
+[05-Dec-2015 19:44:05 UTC] PHP Stack trace:
+[05-Dec-2015 19:44:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:45:01 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:45:01 UTC] PHP Stack trace:
+[05-Dec-2015 19:45:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:45:01 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:49:36 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:49:36 UTC] PHP Stack trace:
+[05-Dec-2015 19:49:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:49:36 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:50:33 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:50:33 UTC] PHP Stack trace:
+[05-Dec-2015 19:50:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:50:33 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:50:41 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:50:41 UTC] PHP Stack trace:
+[05-Dec-2015 19:50:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:50:41 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:50:55 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:50:55 UTC] PHP Stack trace:
+[05-Dec-2015 19:50:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:50:55 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:51:34 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:51:34 UTC] PHP Stack trace:
+[05-Dec-2015 19:51:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:51:34 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:52:03 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:52:03 UTC] PHP Stack trace:
+[05-Dec-2015 19:52:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:52:03 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:52:05 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:52:05 UTC] PHP Stack trace:
+[05-Dec-2015 19:52:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:52:05 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:52:45 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:52:45 UTC] PHP Stack trace:
+[05-Dec-2015 19:52:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:52:45 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 19:57:27 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 19:57:27 UTC] PHP Stack trace:
+[05-Dec-2015 19:57:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 19:57:27 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 20:06:22 UTC] PHP Fatal error:  Class 'mysqlDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 8
+[05-Dec-2015 20:06:22 UTC] PHP Stack trace:
+[05-Dec-2015 20:06:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 20:06:22 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:43
+[05-Dec-2015 20:09:23 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/db.php on line 2
+[05-Dec-2015 20:09:23 UTC] PHP Stack trace:
+[05-Dec-2015 20:09:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 20:09:23 UTC] PHP   2. include() /home/ubuntu/workspace/sqlite/GbookDB.class.php:2
+[05-Dec-2015 20:10:09 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/db.php on line 2
+[05-Dec-2015 20:10:09 UTC] PHP Stack trace:
+[05-Dec-2015 20:10:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 20:10:09 UTC] PHP   2. include() /home/ubuntu/workspace/sqlite/GbookDB.class.php:2
+[05-Dec-2015 20:10:35 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/db.php on line 2
+[05-Dec-2015 20:10:35 UTC] PHP Stack trace:
+[05-Dec-2015 20:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 20:10:35 UTC] PHP   2. include() /home/ubuntu/workspace/sqlite/GbookDB.class.php:2
+[05-Dec-2015 20:10:53 UTC] PHP Fatal error:  Class 'SQLiteDatabase' not found in /home/ubuntu/workspace/sqlite/GbookDB.class.php on line 9
+[05-Dec-2015 20:10:53 UTC] PHP Stack trace:
+[05-Dec-2015 20:10:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/sqlite/GbookDB.class.php:0
+[05-Dec-2015 20:10:53 UTC] PHP   2. GbookDB->__construct() /home/ubuntu/workspace/sqlite/GbookDB.class.php:44
+[07-Dec-2015 20:29:52 UTC] PHP Warning:  require(./dbconnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ControllerBook/ControllerBook.php on line 2
+[07-Dec-2015 20:29:52 UTC] PHP Stack trace:
+[07-Dec-2015 20:29:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/ControllerBook/ControllerBook.php:0
+[07-Dec-2015 20:29:53 UTC] PHP Fatal error:  require(): Failed opening required './dbconnect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ControllerBook/ControllerBook.php on line 2
+[07-Dec-2015 20:29:53 UTC] PHP Stack trace:
+[07-Dec-2015 20:29:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/ControllerBook/ControllerBook.php:0
+[07-Dec-2015 20:30:10 UTC] PHP Warning:  require(./dbconnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ControllerBook/ControllerBook.php on line 2
+[07-Dec-2015 20:30:10 UTC] PHP Stack trace:
+[07-Dec-2015 20:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ControllerBook/ControllerBook.php:0
+[07-Dec-2015 20:30:10 UTC] PHP Fatal error:  require(): Failed opening required './dbconnect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ControllerBook/ControllerBook.php on line 2
+[07-Dec-2015 20:30:10 UTC] PHP Stack trace:
+[07-Dec-2015 20:30:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ControllerBook/ControllerBook.php:0
+[07-Dec-2015 20:30:17 UTC] PHP Warning:  require(./dbconnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ControllerBook/ControllerBook.php on line 2
+[07-Dec-2015 20:30:17 UTC] PHP Stack trace:
+[07-Dec-2015 20:30:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ControllerBook/ControllerBook.php:0
+[07-Dec-2015 20:30:17 UTC] PHP Fatal error:  require(): Failed opening required './dbconnect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ControllerBook/ControllerBook.php on line 2
+[07-Dec-2015 20:30:17 UTC] PHP Stack trace:
+[07-Dec-2015 20:30:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ControllerBook/ControllerBook.php:0
+[07-Dec-2015 20:30:45 UTC] PHP Warning:  require(./test/dbconnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/ControllerBook/ControllerBook.php on line 2
+[07-Dec-2015 20:30:45 UTC] PHP Stack trace:
+[07-Dec-2015 20:30:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ControllerBook/ControllerBook.php:0
+[07-Dec-2015 20:30:45 UTC] PHP Fatal error:  require(): Failed opening required './test/dbconnect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/ControllerBook/ControllerBook.php on line 2
+[07-Dec-2015 20:30:45 UTC] PHP Stack trace:
+[07-Dec-2015 20:30:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ControllerBook/ControllerBook.php:0
